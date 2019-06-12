@@ -98,9 +98,10 @@ service-worker: true
 
 # Friends
 friends: [
-    {        title: "Tang MING",
+    {
+        title: "Tang MING",
         href: "http://mingtang.me"
-    },{
+    }{
         title: "Apple",
         href: "https://apple.com"
     },{
