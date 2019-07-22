@@ -56,18 +56,21 @@ kramdown:
 
 
 # 评论系统
-# Disqus（https://disqus.com/）
-# disqus_username: qiubaiying
+#Disqus(https://disqus.com/）
+disqus:
+  enable: true	
+  username: benhyde
+disqus_username: benhyde
 
 # Gitalk
-gitalk:
-  enable: true    #是否开启Gitalk评论
-  clientID: 0d579b553ff49d5a2f22                            #生成的clientID
-  clientSecret: 26f07a8d0f3fc5ef8f157d9a5674a821fdd905b9    #生成的clientSecret
-  repo: benhyde.github.io    #仓库名称
-  owner: benhyde    #github用户名
-  admin: benhyde
-  distractionFreeMode: true #是否启用类似FB的阴影遮罩
+#gitalk:
+#  enable: true    #是否开启Gitalk评论
+#  clientID: 0d579b553ff49d5a2f22                            #生成的clientID
+#  clientSecret: 26f07a8d0f3fc5ef8f157d9a5674a821fdd905b9    #生成的clientSecret
+#  repo: benhyde.github.io    #仓库名称
+#  owner: benhyde    #github用户名
+#  admin: benhyde
+#  distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
 # 统计
