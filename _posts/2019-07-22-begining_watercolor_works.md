@@ -40,7 +40,7 @@ I enjoyed a lot from the depiction of the nature.
 
 ## 蓝莓 | Blue berries
 
-![Blue berries](/img/blueberry.JPG "blue berries")
+![Blue berries](/img/blueberry.jpg "blue berries")
 
 
 
