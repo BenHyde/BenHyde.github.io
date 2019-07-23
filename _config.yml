@@ -59,8 +59,8 @@ kramdown:
 #Disqus(https://disqus.com/）
 disqus:
   enable: true	
-  username: benhyde
-disqus_username: benhyde
+  username: ben-and-leos-blog
+disqus_username: ben-and-leos-blog
 
 # Gitalk
 #gitalk:
