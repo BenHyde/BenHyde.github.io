@@ -4,7 +4,7 @@ title:      Watercolor works - lanscape - farm-in-snow
 subtitle:   雪中谷仓
 date:       2019-07-24
 author:     Ben
-header-img: img/watercolor_bg2.jpeg
+header-img: img/watercolor_bg2.jpg
 catalog: true
 tags:
     - Art
@@ -22,7 +22,7 @@ tags:
 
 Here is a group of my watercolor works. I depicted the same topic "farm in snow" repeatly for 5 times using different scales of brightness and colors combinations.
 
-Enjoy the fun of colors from the variations. 
+Enjoy the fun of the color variations. 
 
 
 ## 单色 - 熟褐  |  Monocolor - Burnt Umber  
