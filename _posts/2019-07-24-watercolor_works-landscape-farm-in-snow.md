@@ -4,7 +4,7 @@ title:      Watercolor works - lanscape - farm-in-snow
 subtitle:   雪中谷仓
 date:       2019-07-24
 author:     Ben
-header-img: img/watercolor_bg2.jpg
+header-img: img/watercolor_bg4.jpg
 catalog: true
 tags:
     - Art
