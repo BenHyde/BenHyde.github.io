@@ -34,7 +34,7 @@ Here I have several very untraditional works. Hope them amuse you.
 The seal shows 2 powerful outbreaks 
 
 
-![effect of seal on paper](/img/IMG_8133.jpg)
+![effect of seal on paper](/img/IMG_8133.JPG)
 
 
 印在宣纸面上的效果
