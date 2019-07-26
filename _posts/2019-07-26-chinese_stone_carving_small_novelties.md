@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      <span style="color:white">Seal carving small novelties</span>
+title:      Seal carving small novelties
 subtitle:   篆刻，游戏之作
 date:       2019-07-26
 author:     Ben
