@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Stone seal carving, small novelties
+title:      <span style="color:black">Seal carving small novelties</span>
 subtitle:   篆刻，游戏之作
 date:       2019-07-26
 author:     Ben
